@@ -10,7 +10,6 @@
 ![license](https://img.shields.io/github/license/Kaveens-Lobby/X-UI-English-?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Kaveens%20Lobby&color=purple&style=plastic)
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8FF700&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Kaveen+Mithsaka;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
