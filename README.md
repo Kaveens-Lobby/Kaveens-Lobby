@@ -22,7 +22,6 @@
 - 🌱 I’m currently doing a Degree on Network Security and Ethical hacking at NIBM and also BSC (HONS) in Cyber Security
 - 🕺 I'm  also member of KCD & GDG & Microsoft..
 - 📫 Email me via kavi22mith@gmail.com to contact
-- 🤩 Follow me on Instagram https://instagram.com/kavi_xro?igshid=MzNlNGNkZWQ4Mg==/
 - 💬 Text me on Whatsapp wa.me/+94714333592
 - 
 
