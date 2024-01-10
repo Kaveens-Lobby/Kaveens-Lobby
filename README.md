@@ -19,13 +19,11 @@
 - 😊 I’m Kaveen Mithsaka Gunasekara
 - 👦🏻 I'm 20 years old
 - 👀 I’m interested in HTML, CSS, Javascript,C++, Hacking, Web developping and lots of work
-- 🌱 I’m currently doing a Degree on Network Security and Ethical hacking at NIBM
+- 🌱 I’m currently doing a Degree on Network Security and Ethical hacking at NIBM and also BSC (HONS) in Cyber Security
 - 🕺 I'm  also member of KCD & GDG & Microsoft..
 - 📫 Email me via kavi22mith@gmail.com to contact
 - 🤩 Follow me on Instagram https://instagram.com/kavi_xro?igshid=MzNlNGNkZWQ4Mg==/
 - 💬 Text me on Whatsapp wa.me/+94714333592
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1aa08a20-db95-472f-b00b-ed757ac1d801" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ccb9d72e-89e2-4c73-98c5-e9f04d0a64c2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![Digital Badge](https://www.credly.com/badges/ccb9d72e-89e2-4c73-98c5-e9f04d0a64c2/public_url)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kaveens-Lobby)](https://github.com/ryo-ma/github-profile-trophy)
