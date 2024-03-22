@@ -19,12 +19,23 @@
 - 😊 I’m Kaveen Mithsaka Gunasekara
 - 👦🏻 I'm 20 years old
 - 👀 I’m interested in HTML, CSS, Javascript,C++, Hacking, Web developping and lots of work
-- 🌱 I’m currently doing a Degree on Network Security and Ethical hacking at NIBM and also BSC (HONS) in Cyber Security
+- 🌱 I’m currently doing a Degree on Network Security and Ethical hacking at NIBM and also BSC (HONS) in Cyber Security & Digital Forensics
 - 🕺 I'm  also member of KCD & GDG & Microsoft..
 - 📫 Email me via kavi22mith@gmail.com to contact
 - 💬 Text me on Whatsapp wa.me/+94714333592
+- Network Administration in E programmers
+- Linux System Manager E programmers
+- Google Developers Group Member
+- Microsoft Student Ambassador
+- Github community Member
+- Kubernetes Sri Lanka Member
+- Diploma Holder in aquinas
+- Diploma holder in NIBM (NS)
+- Cisco Certified
+- Red hat Certified
+- CEH
+- Bug hunter Cyber Apes
 - 
-
 ![Digital Badge](https://images.credly.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)
 ![Digital Badge](https://images.credly.com/size/340x340/images/c3041175-4d80-4950-93d8-ddcab73369ee/image.png)
 
