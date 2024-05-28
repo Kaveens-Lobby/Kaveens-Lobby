@@ -19,10 +19,11 @@
 - 😊 I’m Kaveen Mithsaka Gunasekara
 - 👦🏻 I'm 22 years old
 - 👀 I’m interested in HTML, CSS, Javascript,C++, Hacking, Web developping and lots of work
-- 🌱 I’m currently doing a Degree on Network Security and Ethical hacking at NIBM and also BSC (HONS) in Cyber Security & Digital Forensics
+- 🌱 I’m currently doing a Degree on Network Security and Ethical hacking at NIBM and also BSC (HONS) in Cyber Security & Digital Forensics in Esoft Metro Campus Gampaha
 - 🕺 I'm  also member of KCD & GDG & Microsoft..
 - 📫 Email me via kavi22mith@gmail.com to contact
 - 💬 Text me on Whatsapp wa.me/+94714333592
+- I am the CEO of Phsytech
 - Network Administration in E programmers
 - Linux System Manager E programmers
 - Google Developers Group Member
