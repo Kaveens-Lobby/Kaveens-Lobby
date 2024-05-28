@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h2 align="center">GitHub Trophy</h2>
+  <p align="center">🏆 HEY THERE WELCOME TO MY GITHUB</p>
+</p>
+
 ### Hi there 👋
 
   ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaveens-Lobby%2FKaveens-Lobby&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
@@ -39,6 +45,4 @@
 - 
 ![Digital Badge](https://images.credly.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)
 ![Digital Badge](https://images.credly.com/size/340x340/images/c3041175-4d80-4950-93d8-ddcab73369ee/image.png)
-![Digital Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fcisco%2Fbadge%2Fccna&psig=AOvVaw2XXXGtfRKIxMxXSHGnt-ss&ust=1716959707503000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCgisjLr4YDFQAAAAAdAAAAABAE)
-
-[![trophy](https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png)
+![Digital Badge](https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png)
