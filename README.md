@@ -41,4 +41,4 @@
 ![Digital Badge](https://images.credly.com/size/340x340/images/c3041175-4d80-4950-93d8-ddcab73369ee/image.png)
 ![Digital Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fcisco%2Fbadge%2Fccna&psig=AOvVaw2XXXGtfRKIxMxXSHGnt-ss&ust=1716959707503000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCgisjLr4YDFQAAAAAdAAAAABAE)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kaveens-Lobby)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png)
