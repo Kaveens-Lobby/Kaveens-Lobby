@@ -39,5 +39,6 @@
 - 
 ![Digital Badge](https://images.credly.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)
 ![Digital Badge](https://images.credly.com/size/340x340/images/c3041175-4d80-4950-93d8-ddcab73369ee/image.png)
+![Digital Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fcisco%2Fbadge%2Fccna&psig=AOvVaw2XXXGtfRKIxMxXSHGnt-ss&ust=1716959707503000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCgisjLr4YDFQAAAAAdAAAAABAE)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kaveens-Lobby)](https://github.com/ryo-ma/github-profile-trophy)
