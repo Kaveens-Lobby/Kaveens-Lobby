@@ -46,7 +46,9 @@
 ![Digital Badge](https://images.credly.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)
 ![Digital Badge](https://images.credly.com/size/340x340/images/c3041175-4d80-4950-93d8-ddcab73369ee/image.png)
 ![Digital Badge](https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png)
-![Digital Badge](https://www.credly.com/badges/0cbf9410-282d-4afa-8c39-0ec4f8524644/public_url)
-![Digital Badge](https://www.credly.com/badges/3f2918cd-f0dd-456e-9d7e-3490690f1a4b/public_url)
+![Digital Badge](![image](https://github.com/user-attachments/assets/aaa162ab-761a-468c-99d9-3396a215de39)
+)
+![Digital Badge](![image](https://github.com/user-attachments/assets/a5f0da95-4162-4d0b-b9ec-ecf9c0e4642c)
+)
 
 ![](https://github-trophies.vercel.app/?Kaveens-Lobby=Kaveens-Lobby)
