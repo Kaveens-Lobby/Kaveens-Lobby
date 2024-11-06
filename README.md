@@ -42,13 +42,7 @@
 - Red hat Certified
 - CEH
 - Bug hunter Cyber Apes
-- 
-![image](https://images.credly.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)
-![image](https://images.credly.com/size/340x340/images/c3041175-4d80-4950-93d8-ddcab73369ee/image.png)
-![image](https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png)
-![image](https://github.com/user-attachments/assets/aaa162ab-761a-468c-99d9-3396a215de39)
-![image](https://github.com/user-attachments/assets/a5f0da95-4162-4d0b-b9ec-ecf9c0e4642c)
-https://learn.opswatacademy.com/certificate/Xs_PPrfLlg
+
 ![](https://github-trophies.vercel.app/?Kaveens-Lobby=Kaveens-Lobby)
 <!--header-->
 <table>
@@ -77,3 +71,35 @@ All product and company names are trademarks™ or registered® trademarks of th
   </tr>
 </table>
 <!--/header-->
+<!--header-->
+<table>
+  <tr><th colspan="2"><h3>🌸 Animelist watch list and reading list</h3></th></tr>
+  <tr><td colspan="2" align="center"><p>This displays favorites animes, mangas and characters from a <a href="https://anilist.co">AniList</a> account.</p>
+</td></tr>
+  <tr>
+    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
+    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a></td>
+  </tr>
+  <tr>
+    <td><code>👤 Users</code> <code>👥 Organizations</code></td>
+  </tr>
+  <tr>
+    <td><i>No tokens are required for this plugin</i></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <details open><summary>For anime watchers</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.svg" alt=""></img></details>
+      <details><summary>For manga readers</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.manga.svg" alt=""></img></details>
+      <details open><summary>For waifus simp</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.characters.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+</table>
+<!--/header-->
+
+![image](https://images.credly.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)
+![image](https://images.credly.com/size/340x340/images/c3041175-4d80-4950-93d8-ddcab73369ee/image.png)
+![image](https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png)
+![image](https://github.com/user-attachments/assets/aaa162ab-761a-468c-99d9-3396a215de39)
+![image](https://github.com/user-attachments/assets/a5f0da95-4162-4d0b-b9ec-ecf9c0e4642c)
+https://learn.opswatacademy.com/certificate/Xs_PPrfLlg
