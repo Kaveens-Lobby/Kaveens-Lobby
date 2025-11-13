@@ -24,16 +24,20 @@
 
 - 😊 I’m Kaveen Mithsaka Gunasekara
 - 👦🏻 I'm 22 years old
-- 👀 I’m interested in HTML, CSS, Javascript,C++, Hacking, Web developping and lots of work
-- 🌱 I’m currently doing a Degree on Network Security and Ethical hacking at NIBM and also BSC (HONS) in Cyber Security & Digital Forensics in Esoft Metro Campus Gampaha
-- I am the CEO of Phsytech
+- 👀 I’m interested in HTML, CSS, Javascript, C++, Python, Ethical Hacking, Web developping and lots of work
+- 🌱 I’m currently doing a HND on Network Security and Ethical hacking at NIBM and also BSC (HONS) in Cyber Security & Digital Forensics in Esoft Metro Campus Gampaha (KU)
+- I am the CEO of Phsytech (CTF team & Cyber Threat Awareness Lecture team & Developer team)
 - Network Administration in E programmers
 - Linux System Manager E programmers
 - Diploma Holder in aquinas
 - Diploma holder in NIBM (NS)
-- Cisco Certified
-- CEH
+- HND Holder in Cyber Security (ESOFT)
+- Certificate in Python
+- Cisco Certified (CNE,CCNA)
+- CEH (v10)
 - Bug hunter Cyber Apes
+- Freelancer (Graphic Arts)
+- Just a Tech (not a pro but gonna be a pro)
 
 ![](https://github-trophies.vercel.app/?Kaveens-Lobby=Kaveens-Lobby)
 <!--header-->
