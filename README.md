@@ -66,7 +66,7 @@
 ### 🏅 Certificates
 <p align="center">
 <a href="https://images.credly.com/size/240x240/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png"><img src="https://images.credly.com/size/240x240/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" width="110" style="margin:6px;"></a>
-<a href="https://images.credly.com/size/240x240/images/c3041175-4d80-4950-93d8-ddcab73369ee/image.png"><img src="https://images.credly.com/size/240x240/images/c3041175-4d80-4950-93d8-ddcab73369ee/image.png" width="110" style="margin:6px;"></a>
+<a href="https://images.credly.com/size/240x240/images/c3041175-4d80-4950-93d8-ddcab73369ee/image.png"><img src="" width="110" style="margin:6px;"></a>
 <a href="https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png"><img src="https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="110" style="margin:6px;"></a>
 <a href="https://learn.opswatacademy.com/certificate/Xs_PPrfLlg"><img src="https://learn.opswatacademy.com/certificate/Xs_PPrfLlg" width="110" style="margin:6px;"></a>
 </p>
@@ -81,15 +81,16 @@
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux">
 <img src="https://img.shields.io/badge/Burp_Suite-FF0000?style=for-the-badge&logo=burp-suite">
 <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap">
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=bash">
 </p>
 
 ---
 
 ### 🏆 CTF Highlights
 <p align="center">
-<img src="https://img.shields.io/badge/HTB-Ranked-00FFFF?style=for-the-badge&logo=hackthebox&logoColor=black">
+<img src="https://img.shields.io/badge/HTB-RunnerUp-00FFFF?style=for-the-badge&logo=hackthebox&logoColor=black">
 <img src="https://img.shields.io/badge/THM-Completed-FF1493?style=for-the-badge&logo=tryhackme">
-<img src="https://img.shields.io/badge/PicoCTF-Top100-FF6B6B?style=for-the-badge&logo=picoctf">
+<img src="https://img.shields.io/badge/PicoCTF-RunnerUp-FF6B6B?style=for-the-badge&logo=picoctf">
 </p>
 
 ---
@@ -105,9 +106,9 @@
 
 ### 📜 Footer
 <p align="center">
-<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f?style=for-the-badge&logo=markdown">
-<img src="https://img.shields.io/badge/SECURE%20BY-GLITCH-00ff41?style=for-the-badge&logo=shield">
-<img src="https://img.shields.io/badge/POWERED%20BY-NEON-ff00ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/Made%20with-Brain-1f425f?style=for-the-badge&logo=brain">
+<img src="https://img.shields.io/badge/SECURE%20BY-CyberRavana-00ff41?style=for-the-badge&logo=shield">
+<img src="https://img.shields.io/badge/POWERED%20BY-CyberSquad-ff00ff?style=for-the-badge&logo=world">
 </p>
 
 > "The code is law. I am the exploit."
