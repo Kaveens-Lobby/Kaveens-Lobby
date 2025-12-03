@@ -33,7 +33,7 @@
 - **Age:** 22  
 - **Zone:** Somewhere in Sri Lanka  
 - **Roles:** CEO @ Phsytech | Bug Bounty Phantom | Code Weaver  
-- **Certifications:** CEH v10 | CCNA | Python | CNE | OSCP (in progress), CEH v11 incoming  
+- **Certifications:** CEH v10 | CCNA | Python | CNE | Cisco Certified Ethical Hacker | Cyber Ops Associate | Dev Net Associate | Network Security | Cisco ITE | OSCP (incoming), CEH v11 incoming  
 - **Achievements:** Dip Network Engineering (NIBM) | HND Cyber Security (Esoft) | BSC (HONS) Cyber Security & Digital Forensics (Kingston University - incoming)  
 - **Status:** [GLITCHED] Hacking the Grid, Coding Shadows, Teaching Ghosts  
 
@@ -66,9 +66,10 @@
 ### 🏅 Certificates
 <p align="center">
 <a href="https://images.credly.com/size/240x240/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png"><img src="https://images.credly.com/size/240x240/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" width="110" style="margin:6px;"></a>
-<a href="https://images.credly.com/size/240x240/images/c3041175-4d80-4950-93d8-ddcab73369ee/image.png"><img src="" width="110" style="margin:6px;"></a>
-<a href="https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png"><img src="https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="110" style="margin:6px;"></a>
-<a href="https://learn.opswatacademy.com/certificate/Xs_PPrfLlg"><img src="https://learn.opswatacademy.com/certificate/Xs_PPrfLlg" width="110" style="margin:6px;"></a>
+<a href="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png"><img src="" width="110" style="margin:6px;"></a>
+<a href="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_administration_3.png">
+  <img src="https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="110" style="margin:6px;"></a>
+<a href="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/threat_analysis_4.png"><img src="https://learn.opswatacademy.com/certificate/Xs_PPrfLlg" width="110" style="margin:6px;"></a>
 </p>
 
 ---
