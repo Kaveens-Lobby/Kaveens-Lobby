@@ -33,7 +33,7 @@
 - **Age:** 22  
 - **Zone:** Somewhere in Sri Lanka  
 - **Roles:** CEO @ Phsytech | Bug Bounty Phantom | Code Weaver  
-- **Certifications:** CEH v10 | CCNA | Python | CNE | Cisco Certified Ethical Hacker | Cyber Ops Associate | Dev Net Associate | Network Security | Cisco ITE | OSCP (incoming), CEH v11 incoming  
+- **Certifications:** CEH v10 | CCNA | Python | CNE | Cisco Ethical Hacker | Cyber Ops Associate | Dev Net Associate | Network Security | Cisco ITE | Cisco Network Defense | Cisco Cyber threat Management | OSCP (incoming), CEH v11 incoming  
 - **Achievements:** Dip Network Engineering (NIBM) | HND Cyber Security (Esoft) | BSC (HONS) Cyber Security & Digital Forensics (Kingston University - incoming)  
 - **Status:** [GLITCHED] Hacking the Grid, Coding Shadows, Teaching Ghosts  
 
