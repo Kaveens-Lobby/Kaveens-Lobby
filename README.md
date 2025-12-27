@@ -70,6 +70,8 @@
 <a href="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_administration_3.png">
   <img src="https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="110" style="margin:6px;"></a>
 <a href="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/threat_analysis_4.png"><img src="https://learn.opswatacademy.com/certificate/Xs_PPrfLlg" width="110" style="margin:6px;"></a>
+  <a <img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/2ecb4cd7-59cf-4978-a4db-154445347b04" />
+
 </p>
 
 ---
