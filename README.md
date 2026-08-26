@@ -6,7 +6,7 @@
 
 ---
 
-### 🔥 GRID NAME: KAVEEN MITHSAKA GUNASEKARA
+### 🔥 GRID NAME: Khaoz Inzane Primordial
 ### ⚠️ CYBER THREAT LEVEL: MAXIMUM
 ### 🛡️ PROTOCOL: KALI OVERDRIVE | EXPLOITS READY
 ### 🌌 REALITY: GLITCHED & REWRITTEN BY MY OWN SELF
@@ -28,8 +28,8 @@
 <div align="left">
 
 ### 🔍 Profile Decrypted
-- **Alias:** Cyber-Ravana  
-- **Name:** Kaveen Mithsaka Gunasekara  
+- **Alias:** KhaoZ 
+- **Name:** Unknown
 - **Age:** 22  
 - **Zone:** Somewhere in Sri Lanka  
 - **Roles:** CEO @ Phsytech | Bug Bounty Phantom | Code Weaver  
